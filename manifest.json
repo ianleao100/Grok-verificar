@@ -1,0 +1,22 @@
+
+{
+  "name": "Dreamlícias",
+  "short_name": "Dreamlícias",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#EA1D2C",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/754/754859.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/754/754859.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

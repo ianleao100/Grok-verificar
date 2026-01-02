@@ -1,0 +1,1 @@
+// FILE DELETED - Moved to ../CartFloatingButton.tsx
